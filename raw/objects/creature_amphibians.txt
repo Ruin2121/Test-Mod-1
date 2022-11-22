@@ -1,4 +1,4 @@
-
+creature_amphibians
 
 [OBJECT:CREATURE]
 
